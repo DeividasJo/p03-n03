@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.lifestyle{
+    background: #ececec;
+    padding: 1%;
+}
+.page{
+    background: white;
+    width: 80%;
+    margin: auto;
+    min-width: 900px;
+}
+.wrapper-1{
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper-1 .box-1{
+    padding: 25px 2%;
+}
+.wrapper-1 .box-1 #girl{
+    width: 100%;
+}
+.wrapper-1 .box-1 .btn{
+    width: 85px;
+    color: #fff;
+    background: rgb(57, 131, 75);
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.wrapper-1 .box-1 h2{
+    font-size: 28px;
+    line-height: 1.5;
+    padding-top: 20px;
+    font-weight: 900;
+}
+.box-1 .inline-block{
+    display: inline-block;
+    padding-top: 5px;
+}
+#profile{
+    width: 30px;
+    border-radius: 50%;
+}
+.inline-block .ruby{
+    font-weight: 700;
+}
+.clock{
+    width: 13px;
+}
+.date{
+    color: #a0a0a0;
+    font-size: 13px;
+}
+.zaibas{
+    width: 13px;
+    float: right;
+}
+.p86{
+    font-size: 13px;
+    color: #a0a0a0;
+    float: right;
+}
+.wrapper-1 .box-1 .text-one{
+    padding-top: 20px;
+    padding-right: 10%;
+    padding-bottom: 40px;
+    line-height: 1.5;
+    color: #999;
+}
+.button1{
+    background: #fff;
+    border: none;
+    border-bottom: 1px solid #999;
+}
+.wrapper-1 .box-1 .btn-2{
+    width: 20px;
+}
+.wrapper-2{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.wrapper-2 .box-2{
+    width: 20%;
+    padding: 25px 2%;
+}
+.box-2 .img{
+    width: 100%;
+}
+.box-2{
+    flex-basis: 250px;
+}
+.box-2 h4{
+    font-weight: 900;
+    font-size: 20px;
+}
+.box-2 .inline-block{
+    display: inline-block;
+    padding-top: 50px;
+}
+.clock-2{
+    width: 13px;
+}
